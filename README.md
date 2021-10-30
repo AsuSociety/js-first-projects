@@ -12,7 +12,7 @@ During the semester break I learned JavaScript and as part of my learning I did 
 
 > A site that has the option to create a note, save it or delete it.
 
-#### Passowrd generator
+#### Password generator
 
 > A site that creates a random password for you using conditions you give it (length, use of numbers, characters, uppercase / lowercase letters).
 
